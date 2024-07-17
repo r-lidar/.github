@@ -8,10 +8,15 @@
 
 Our software are free. You can support the development by [sponsoring us](https://github.com/sponsors/Jean-Romain)
 
-
 | | lidR | lasR |
 |-------|----------|----------|
 | | <img src="https://raw.githubusercontent.com/r-lidar/lidR/master/man/figures/logo200x231.png"/>  | <img src="https://raw.githubusercontent.com/r-lidar/lasR/main/man/figures/lasR200x231.png" align="right"/>  |
 | Speciality | Versatile | Fast |
 | Target usages | R&D | Production |
 | Target users | Universities | Companies |
+
+We are also maintaing other open source projets for airborne lidar data processsing in R :
+
+- [`rlas`](https://github.com/r-lidar/rlas) : R package to read and write las and laz files used to store LiDAR data
+- [`RMCC`](https://github.com/r-lidar/RMCC) : Airborne LiDAR filtering method based on Multiscale Curvature Classification
+- [`RCSF`](https://github.com/r-lidar/RCSF) : Airborne LiDAR filtering method based on Cloth Simulation 
