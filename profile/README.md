@@ -14,4 +14,4 @@ Our software are free. You can support the development by [sponsoring us](https:
 | | <img src="https://raw.githubusercontent.com/r-lidar/lidR/master/man/figures/logo200x231.png"/>  | <img src="https://raw.githubusercontent.com/r-lidar/lasR/main/man/figures/lasR200x231.png" align="right"/>  |
 | Speciality | Versatile | Fast |
 | Target usages | R&D | Production |
-| Target users | Universities | Compagnies |
+| Target users | Universities | Companies |
