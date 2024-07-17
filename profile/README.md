@@ -6,6 +6,8 @@
 
 - `lasR` is tailored for highly efficient airborne lidar data processing. It has comparable tools to `lidR` but was designed to be much more powerful and efficient. However, it does not allow for easy manipulation within the R language. `lasR` allows creating complex processing pipelines and applying them to terabytes of data efficiently.
 
+Our software are free. You can support the development by [sponsoring us](https://github.com/sponsors/Jean-Romain)
+
 
 | | lidR | lasR |
 |-------|----------|----------|
