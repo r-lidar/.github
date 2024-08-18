@@ -20,3 +20,7 @@ We also maintain other open-source projects for airborne lidar data processing i
 - [`rlas`](https://github.com/r-lidar/rlas): R package to read and write las and laz files used to store LiDAR data
 - [`RMCC`](https://github.com/r-lidar/RMCC): Airborne LiDAR filtering method based on Multiscale Curvature Classification
 - [`RCSF`](https://github.com/r-lidar/RCSF): Airborne LiDAR filtering method based on Cloth Simulation
+
+## r-lidar laboratoy
+
+[`r-lidar laboratory`](https://github.com/r-lidar-lab) is another place where you can find experimental and maturing software, as well as R&D tools we designed either during our academic research or as a company.
