@@ -4,7 +4,7 @@
 
 - [`lidR`](https://github.com/r-lidar/lidR) is tailored for research and development, originally developed at Laval University. It allows the handy manipulation of lidar data within the R programming language. It has been widely used for 10 years by universities globally and has been cited in more than 1,000 scientific articles.
 
-- [`lidRalignment`](https://github.com/r-lidar/lasRlidRalignment) enables automatic alignment of forest plot point clouds from different sources, such as ALS with TLS or MLS, or TLS with MLS, or ALS with ALS in a unified pipeline.
+- [`lidRalignment`](https://github.com/r-lidar/lidRalignment) enables automatic alignment of forest plot point clouds from different sources, such as ALS with TLS or MLS, or TLS with MLS, or ALS with ALS in a unified pipeline.
 
 
 - [`lasR`](https://github.com/r-lidar/lasR) is tailored for highly efficient airborne lidar data processing. It was designed to be much more powerful than lidR by allowing the creation of complex and optimized processing pipelines and applying them to terabytes of data efficiently. It allows to push ideas developped with `lidR` into production.
