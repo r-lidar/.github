@@ -9,6 +9,8 @@
 
 - [`lasR`](https://github.com/r-lidar/lasR) is tailored for highly efficient airborne lidar data processing. It was designed to be much more powerful than lidR by allowing the creation of complex and optimized processing pipelines and applying them to terabytes of data efficiently. It allows to push ideas developped with `lidR` into production.
 
+- [`TreeMatching`](https://github.com/r-lidar/TreeMatching) provides tools for matching trees between two spatial datasets, typically lidar-derived tree segmentations and field-measured datasets.
+
 You can support the development by [sponsoring us](https://github.com/sponsors/Jean-Romain).
 
 We also maintain other open-source projects for airborne lidar data processing in R:
